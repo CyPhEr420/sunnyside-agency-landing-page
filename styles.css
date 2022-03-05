@@ -39,11 +39,6 @@ nav {
   padding: 20px 30px;
   display: flex;
   justify-content: space-between;
-  position: fixed;
-  top: 0;
-  background-color: hsl(200, 100%, 62%);
-  width: 100%;
-  z-index: 9999;
 }
 
 nav .logo_container {
